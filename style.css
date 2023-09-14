@@ -26,6 +26,9 @@ body{
     background-color: lightpink;
     min-width: 49%;
 }
+#botten{
+    border: 2px solid yellow;
+}
 a{
     font-size: 20px;
     font-family: monospace;
